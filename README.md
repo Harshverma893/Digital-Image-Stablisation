@@ -10,16 +10,16 @@ A Flask-based web application for video stabilization using OpenCV, designed to 
 - **Jitter Reduction:** Achieves up to 80% reduction in video jitter using OpenCV’s stabilization algorithms.
 - **Live Feed Support:** Real-time video stabilization using webcam or IP camera.
 - **Upload & Stabilize:** Upload a jittery video and download a stabilized version with automatic cropping.
-- **Responsive Web Interface:** Upload videos or stabilize live feeds via a modern, Tailwind-based UI.
+- **Responsive Web Interface:** Upload videos or stabilize live feeds via a modern UI.
 - **Executable Support:** Optional `.exe` version for standalone deployment on Windows.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Languages:** Python, HTML, JavaScript
+- **Languages:** Python
 - **Libraries:** OpenCV, NumPy, Flask, Imutils
-- **Frontend:** Tailwind CSS
+- **Frontend:**  HTML, JavaScript, CSS
 - **Video Processing:** Optical Flow, RANSAC, Smoothing Filters
 - **Deployment:** Flask-based local web app
 
