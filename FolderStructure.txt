@@ -1,0 +1,16 @@
+
+# 📁 Project Folder Structure
+
+Digital-Image-Stabilization/
+│
+├── app.py                        # Main app for video upload stabilization
+├── live_stabilization.py        # Live camera stabilization script
+├── templates/
+│   └── index.html               # HTML for upload interface
+│   └── live.html                # HTML for live stabilization interface
+├── uploads/                     # Stores uploaded videos temporarily
+├── outputs/                     # Stores stabilized videos
+├── static/                      # For CSS or JS files if needed
+├── requirements.txt             # Required Python packages
+├── README.md                    # Project description and usage
+└── venv/                        # (Optional) Python virtual environment
